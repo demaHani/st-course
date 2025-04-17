@@ -1,2 +1,2 @@
 # st-course
-htu special topics Course - mern stack developer
+htu special topics course - mern stack developer
